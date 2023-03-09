@@ -1,5 +1,5 @@
 import React from "react";
-import Character from "./character";
+import Character from "./Character";
 
 import peopleInfo from '../data/characterData.json';
 
